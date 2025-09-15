@@ -1,8 +1,11 @@
 # Hi there 👋 I'm [Andrew]
 
 💻 **Frontend Developer | 4+ Years of Experience**  
-🎨 Passionate about crafting scalable UIs, clean code, and seamless user experiences.  
-🚀 Skilled in **JavaScript, React, Next.js, TailwindCSS**, and **UI/UX design in Figma**.  
+🌱 I’m currently learning **advanced JavaScript, React ecosystem, and performance optimization**.  
+👯 I’m looking to collaborate on **open-source frontend projects** and **UI/UX design implementations**.  
+💬 Ask me about **JavaScript, React, Next.js, TailwindCSS, and building scalable frontend apps**.  
+🎨 I also love to create **UI designs in Figma** from time to time.  
+⚡ Fun fact: I turn coffee ☕ into clean UI and reusable components.  
 
 ---
 
@@ -25,7 +28,3 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dev-wyma)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.wyma@gmail.com)  
-
----
-
-⚡ *Fun fact: I turn coffee ☕ into clean UI and reusable components.*  
